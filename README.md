@@ -17,3 +17,8 @@ This interactive quiz application is a simple web-based tool built using **HTML*
 The HTML structure defines the layout, including containers for the quiz interface, question text, answer options, and result display. CSS is used to style the interface, giving it a clean, modern appearance with centered content, styled buttons, and responsive design elements for better usability. JavaScript handles the core logic—loading questions, checking answers, updating the UI dynamically, and managing user interaction without requiring a page reload.
 
 This type of application is ideal for learning platforms, educational games, and training programs where real-time feedback is essential. It can be extended easily with features like timers, progress bars, score history (using `localStorage`), or even integration with backend databases for more robust functionality.
+
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/81cf2179-81d0-4350-8dda-a59a7ded3fb0)
